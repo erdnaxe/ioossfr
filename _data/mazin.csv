@@ -1,0 +1,13 @@
+prenom,nom,date_naissance,date_mort,parent_de,enfant_de,pic,bio_perso,bio_familiale
+Jacques,Mazin,23/04/1921,21/07/1976,,Yvonne Grison et Adolphe Mazin,jacques_mazin.jpg,,
+Odette,Mazin,25/10/1922,03/02/2013,,Yvonne Grison et Adolphe Mazin,odette_mazin.jpg,odette_mazin.pdf,
+Pierre,Mazin,10/08/1924,20/05/2014,,Yvonne Grison et Adolphe Mazin,pierre_mazin.jpg,,
+Adolphe,Mazin,25/02/1881,20/09/1951,"Jacques Mazin, Odette Mazin et Pierre Mazin",Jean-Marie François Mazin et Marie Amélie Dauphin,adolphe_mazin.jpg,,
+Jean,Mazin,19/01/1827,,Jean-Marie François Mazin,,,,
+Jean-Marie François,Mazin,13/10/1852,17/12/1922,Adolphe Mazin,Jean Mazin,,,
+Marie Amélie,Dauphin,16/12/1857,16/12/1933,Adolphe Mazin,marie-amelie_dauphin.jpg,,,
+Yvonne,Grison,12/06/1891,1980,"Jacques Mazin, Odette Mazin et Pierre Mazin",Henriette Prieur et Alexandre (fils) Grison,yvonne_grison.jpg,,
+Alexandre (fils),Grison,1863,1933,Yvonne Grison,Marie-Esther Giraud et Alexandre Grison,alexandre_grison_fils.jpg,,
+Alexandre,Grison,1817,1871,Alexandre (fils) Grison,,,,
+Henriette,Prieur,1866,1941,Yvonne Grison,,henriette_prieur.jpg,,
+Marie-Esther,Giraud,1826,1872,Alexandre (fils) Grison,,,,

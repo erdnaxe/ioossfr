@@ -1,0 +1,16 @@
+prenom,nom,date_naissance,date_mort,parent_de,enfant_de,pic,bio_perso,bio_familiale
+Félix,Iooss,30/04/1824,02/01/1899,Paul Iooss,,felix_iooss.jpg,felix_iooss.pdf,
+Paul,Iooss,08/12/1861,14/03/1932,Pierre Iooss,Eugénie Gruber et Félix Iooss,paul_iooss.jpg,paul_iooss.pdf,
+Pierre,Iooss,29/09/1893,23/05/1964,"René Iooss, Hélène Iooss et Jacqueline Iooss",Marie Leclerc et Paul Iooss,pierre_iooss.jpg,pierre_iooss.pdf,
+René,Iooss,07/04/1920,20/04/2009,,Suzanne Muriot et Pierre Iooss,rene_iooss.jpg,rene_iooss.pdf,
+Hélène,Iooss,08/01/1922,09/07/1942,,Suzanne Muriot et Pierre Iooss,helene_iooss.jpg,helene_iooss.pdf,
+Jacqueline,Iooss,03/07/1927,12/10/2015,,Suzanne Muriot et Pierre Iooss,jacqueline_iooss.jpg,jacqueline_iooss.pdf,
+Catherine,Hirtzmann,1828,07/12/1919,Marie Leclerc,,catherine_hirtzmann.jpg,,famille_hirtzmann.pdf
+Pierre,Leclerc,1811,17/12/1886,Marie Leclerc,,pierre_leclerc.jpg,,famille_leclerc.pdf
+Marie,Leclerc,05/06/1860,27/07/1913,Pierre Iooss,Catherine Hirtzmann et Pierre Leclerc,marie_leclerc.jpg,,famille_leclerc.pdf
+Eugénie,Gruber,1832,14/09/1879,Paul Iooss,,,,
+Juliette,Muriot,,,Henri Muriot,,juliette_muriot.jpg,,
+Henri,Muriot,14/07/1868,13/07/1947,Suzanne Muriot,Juliette Muriot,henri_muriot.jpg,,
+Suzanne,Muriot,14/07/1897,13/01/1991,"René Iooss, Hélène Iooss et Jacqueline Iooss",Victorine Andrée Brolles et Henri Muriot,suzanne_muriot.jpg,,
+Clémentine,Brolles,,01/08/1901,Victorine Andrée Brolles,,clementine_brolle.jpg,,
+Victorine Andrée,Brolles,11/10/1866,16/06/1928,Suzanne Muriot,Clémentine Brolles,victorine-andree_brolles.jpg,,
