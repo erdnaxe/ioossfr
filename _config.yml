@@ -3,6 +3,6 @@ email: postmaster@iooss.fr
 description: >- 
   Histoire et généalogie de la famille IOOSS.
 baseurl: ""
-url: "https://www.iooss.fr"
+url: "https://iooss.fr"
 markdown: kramdown
 theme: minima
